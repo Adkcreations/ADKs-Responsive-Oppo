@@ -11,7 +11,7 @@ body{
     background-color:black;
 }
 .intro video{
-    height:100%;
+    height:50%;
     width:50%;
     object-fit: cover;
     transform: translate(50%,50%);
